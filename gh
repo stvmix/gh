@@ -1,0 +1,11 @@
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/647f7f8d8e3c0a0008d552cb/colorLogoPNG.png" group-title="24/7", Gran Hermano Chile
+https://i.mjh.nz/PlutoTV/647f7f8d8e3c0a0008d552cb-alt.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/featuredImage.jpg" group-title="24/7", LOSPADRINOSMAGICOS 
+https://i.mjh.nz/PlutoTV/647f7f8d8e3c0a0008d552cb-alt.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/arkey/NBA_TV.json
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/647f7f8d8e3c0a0008d552cb/colorLogoPNG.png" group-title="24/7", NBATV
+https://i.mjh.nz/PlutoTV/647f7f8d8e3c0a0008d552cb-alt.m3u8
